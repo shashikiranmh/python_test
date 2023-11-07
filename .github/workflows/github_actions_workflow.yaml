@@ -17,5 +17,5 @@ jobs:
         with:
           args: >
               -Dsonar.organization=my-project-demo
-              -Dsonar.projectKey=python_test
+              -Dsonar.projectKey=github-actions
               -Dsonar.python.coverage.reportPaths=coverage.xml
